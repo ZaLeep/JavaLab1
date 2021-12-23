@@ -1,0 +1,10 @@
+Test\test5.txt: 6
+Test\test_dir1\test7.txt: 5
+Test\test_dir2\test3.txt: 4
+Test\test6.txt: 2
+Test\test_dir1\test_dir3\test10.txt: 6
+Test\test_dir2\test2.txt: 3
+Test\test_dir1\test1.txt: 4
+Test\test_dir1\test_dir3\test8.txt: 3
+Test\test1.txt: 4
+Test\test_dir2\test4.txt: 6
